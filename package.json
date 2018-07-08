@@ -1,0 +1,23 @@
+{
+  "author": {
+    "name": "ionic"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native - Native plugins for ionic apps",
+  "homepage": "https://github.com/ionic-team/ionic-native#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "ionic-hot-code-push-wxl",
+  "peerDependencies": {
+    "@ionic-native/core": "^4.2.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wxlcat/ionic-hot-code-push-wxl.git"
+  },
+  "typings": "index.d.ts",
+  "version": "4.9.1"
+}
